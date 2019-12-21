@@ -8,7 +8,7 @@ Script to install [Alpine Linux](https://alpinelinux.org/) on a [Digital Ocean](
 2. Download and run `digitalocean-alpine.sh` onto the droplet:
 
 ```sh
-wget https://github.com/bontibon/digitalocean-alpine/raw/master/digitalocean-alpine.sh
+wget https://github.com/k4mrul/digitalocean-alpine/raw/master/digitalocean-alpine.sh
 chmod +x digitalocean-alpine.sh
 ./digitalocean-alpine.sh
 ```
