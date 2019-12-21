@@ -1,6 +1,6 @@
 # Digital Ocean: Alpine Linux
 
-Script to install [Alpine Linux](https://alpinelinux.org/) on a [Digital Ocean](https://m.do.co/c/a0f96edad652) (referral link) droplet.
+Script to install [Alpine Linux](https://alpinelinux.org/) on a [Digital Ocean](https://m.do.co/c/502cc11718c1) (referral link) droplet.
 
 ## Instructions
 
